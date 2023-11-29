@@ -1,0 +1,11 @@
+gcc Cloud.c -o Cloud
+gcc Accuator.c -o Accuator
+gcc Controller.c -o Controller
+gcc Sensor.c -o Sensor
+
+gnome-terminal --tab 
+gnome-terminal --tab
+gnome-terminal --tab
+gnome-terminal --tab
+gnome-terminal --tab
+
